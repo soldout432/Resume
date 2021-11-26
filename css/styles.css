@@ -11390,7 +11390,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #5F9EFC;
+  background-color: #6c757d;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -11400,7 +11400,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #6c757d;
+  background-color: #5F9EFC;
 }
 
 .dev-icons {
